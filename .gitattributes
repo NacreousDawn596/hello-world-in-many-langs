@@ -1,2 +1,3 @@
 *.sh linguist-detectable=false
 bin.py linguist-detectable=false
+*.html linguist-detectable=false
