@@ -1,1 +1,2 @@
 *.sh linguist-detectable=false
+bin.py linguist-detectable=false
